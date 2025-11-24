@@ -1,0 +1,28 @@
+{
+  "tagline": "Building the future, one line of code at a time.",
+  "socialLinks": [
+    {
+      "url": "https://github.com/anushayaramala",
+      "platform": "GitHub",
+      "icon": "fab fa-github"
+    },
+    {
+      "url": "https://www.linkedin.com/in/anusha-yaramala-551812147",
+      "platform": "LinkedIn",
+      "icon": "fab fa-linkedin"
+    }
+  ],
+  "copyright": {
+    "text": "© 2025 ANUSHA YARAMALA. All rights reserved."
+  },
+  "links": [
+    {
+      "href": "#",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "#",
+      "text": "Terms of Service"
+    }
+  ]
+}

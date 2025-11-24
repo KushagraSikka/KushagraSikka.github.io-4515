@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "Master of Data Science",
+      "institution": "University of North Texas",
+      "period": "August 2022 – May 2023",
+      "description": "Master of Data Science",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "degree": "Bachelor of Mechanical Engineering",
+      "institution": "Lakireddy Balireddy College of Engineering",
+      "period": "2016 - 2020",
+      "description": "Bachelor of Mechanical Engineering",
+      "achievements": [],
+      "color": "#764ba2",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

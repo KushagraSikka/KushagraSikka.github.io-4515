@@ -1,0 +1,53 @@
+{
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "GenAI Specialist",
+      "company": "Brighthouse Financial",
+      "location": "",
+      "period": "September 2024 - Present",
+      "type": "Full-time",
+      "color": "#667eea",
+      "icon": "fas fa-briefcase",
+      "description": "• Working on RAG and BERT models with LLMs to enhance contextual understanding and extract the required\naspect-based summaries from client policy documents using TensorFlow, Hugging Face transformers, and OpenAI to\nbuild chatbots, reducing the manual calls by 40%.\n• Worked with Agentic systems, vector databases like Pinecone and FAISS, fine-tuned Llama using RLHF, QLORA for\nmemory efficient training, integrated with LangChain for dynamic prompt orchestration, achieving 70% reduction in\nGPU memory usage and 30% reduction in training time.\n• Implemented NLP libraries such as NLTK, spaCy, scikit-learn optimizing text analysis, chunking and sentiment analysis.\nUtilized feedback mechanisms to train ML models, delivering more personalized user experiences.\n• Presented complex data findings and insights from A/B tests and predictive analyses to clients, senior management, and\nstakeholders.",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "Neural Network Engineer",
+      "company": "Texas Instruments",
+      "location": "",
+      "period": "February 2023 – July 2024",
+      "type": "Full-time",
+      "color": "#764ba2",
+      "icon": "fas fa-briefcase",
+      "description": "• Developed and optimized neural network architectures using SciKit Learn, Pandas, keras, pyTorch, numpy, matplotlib\nwithin Azure Databricks, achieving a 91.68% F1 score and reduced computational complexity by 35%.\n• Used NLP algorithms, including Named Entity Recognition (NER) and Sentiment Analysis using VADER, improving\ntext analysis efficiency by 70% and facilitating insight extraction from social media data.\n• Collaborated with cross-functional teams to translate business requirements into AI-driven solutions, reducing\ndecision-making time by 25% and enhancing stakeholder confidence in data-driven insights.\n• Designed, deployed scalable Deep learning models into production using APIs and pipelines improving deployment\nefficiency by 30%.\n• Utilized Latent Dirichlet Allocation (LDA) for topic modeling, uncovering key themes and trends from textual data, with\nstemming and tokenization preprocessing techniques, and produced interactive visualizations with Plotly.\n• Employed Azure DevOps and Git for version control and CI/CD best practices, while leveraging AWS SageMaker to\nautomate workflows and manage infrastructure accelerating model scalability, training and deployment by 20%.",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "Data Engineer",
+      "company": "Deutsche Bank",
+      "location": "",
+      "period": "May 2021 – July 2022",
+      "type": "Full-time",
+      "color": "#f093fb",
+      "icon": "fas fa-briefcase",
+      "description": "• Developed and optimized complex SQL queries and DDL scripts, improving query performance by 35% through index\noptimization, and executed queries for complex datasets exceeding 1 million rows.\n• Optimized distributed data processing workflows using Python, PySpark, and Spark SQL, reducing data transformation\ntime by 40% and enhancing predictive analytics and system efficiency by 20%.\n• Implemented real-time data streaming with Google Cloud Pub/Sub and Apache Kafka, with low-latency processing of 10\nTB+ of data.\n• Utilized Hadoop Distributed File System (HDFS) and Spark SQL for efficient distributed storage and querying.\n• Managed ETL pipelines handling 100K to 2M records with diverse schemas, achieving data cleaning and transformation\nin 2 to 10 min.",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "Data Insights Analyst",
+      "company": "Vodafone",
+      "location": "",
+      "period": "September 2020 – May 2021",
+      "type": "Full-time",
+      "color": "#4facfe",
+      "icon": "fas fa-briefcase",
+      "description": "• Improved query running time by 40% by utilizing stored procedures in SQL instead of multiple joins. Managed\nprocedures, installed databases, and solved problems in both development and production environments.\n• Collaborated with cross-functional teams to develop data-driven dashboards enabling real-time performance tracking and\ndecision-making.",
+      "responsibilities": [],
+      "technologies": []
+    }
+  ]
+}

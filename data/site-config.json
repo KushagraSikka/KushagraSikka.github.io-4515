@@ -1,0 +1,13 @@
+{
+  "title": "ANUSHA YARAMALA - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "ANUSHA YARAMALA",
+  "keywords": "MLOps pipelines, data processing, Bigdata, python, LLM's, AWS, Azure, GCP, Multi-model RAG's, GPT-4, Claude, Co-pilot, Fast API, MCP, Semantic search, Vertex AI, Azure factory, AWS (Glue, RDS, S3, Athena, EC2, RDS, Redshift, Lambda), Databricks, Azure DevOps, BigQuery, Airflow, PySpark, Snowflake, Kafka, Flink, Data Governance, Data Modeling, Hadoop, Delta Lake, Delta Tables, OLAP, OLTP, DBMS, PostgreSQL, MySQL, NoSQL, SQL Server, Mongo DB, Metadata Management, ANN, Linear Regression, CNN, Logistic Regression, RNN, Decision Trees, SVM, Random Forests, Naive Bayes, C, Java, R, C++, Linux, Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, OpenCV, MLFlow)",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}
